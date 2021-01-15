@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Prueba de texto</h1>
-    <p>Código para servidor virtual en PHP <b>php -S loscalhost:8009 -t public/</b></p>
+    <p>Código para servidor virtual en  PHP <b>php -S loscalhost:8009 -t public/</b></p>
 
     <?php
     require '../vendor/autoload.php';
